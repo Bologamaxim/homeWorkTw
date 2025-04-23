@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Bologamaxim/homeWorkTw.git/static/css/main.3d45f6e1.css",
-    "main.js": "/Bologamaxim/homeWorkTw.git/static/js/main.b505a412.js",
-    "static/js/787.67f55d8d.chunk.js": "/Bologamaxim/homeWorkTw.git/static/js/787.67f55d8d.chunk.js",
-    "static/media/avatar.png": "/Bologamaxim/homeWorkTw.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/Bologamaxim/homeWorkTw.git/index.html",
-    "main.3d45f6e1.css.map": "/Bologamaxim/homeWorkTw.git/static/css/main.3d45f6e1.css.map",
-    "main.b505a412.js.map": "/Bologamaxim/homeWorkTw.git/static/js/main.b505a412.js.map",
-    "787.67f55d8d.chunk.js.map": "/Bologamaxim/homeWorkTw.git/static/js/787.67f55d8d.chunk.js.map"
+    "main.css": "/lastHomeWork/static/css/main.3d45f6e1.css",
+    "main.js": "/lastHomeWork/static/js/main.260f8b12.js",
+    "static/js/787.67f55d8d.chunk.js": "/lastHomeWork/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/lastHomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/lastHomeWork/index.html",
+    "main.3d45f6e1.css.map": "/lastHomeWork/static/css/main.3d45f6e1.css.map",
+    "main.260f8b12.js.map": "/lastHomeWork/static/js/main.260f8b12.js.map",
+    "787.67f55d8d.chunk.js.map": "/lastHomeWork/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d45f6e1.css",
-    "static/js/main.b505a412.js"
+    "static/js/main.260f8b12.js"
   ]
 }
