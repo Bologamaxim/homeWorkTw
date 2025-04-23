@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Bologamaxim/homeWorkTw.git/static/css/main.f58b3fef.css",
+    "main.css": "/Bologamaxim/homeWorkTw.git/static/css/main.3d45f6e1.css",
     "main.js": "/Bologamaxim/homeWorkTw.git/static/js/main.b505a412.js",
     "static/js/787.67f55d8d.chunk.js": "/Bologamaxim/homeWorkTw.git/static/js/787.67f55d8d.chunk.js",
     "static/media/avatar.png": "/Bologamaxim/homeWorkTw.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Bologamaxim/homeWorkTw.git/index.html",
-    "main.f58b3fef.css.map": "/Bologamaxim/homeWorkTw.git/static/css/main.f58b3fef.css.map",
+    "main.3d45f6e1.css.map": "/Bologamaxim/homeWorkTw.git/static/css/main.3d45f6e1.css.map",
     "main.b505a412.js.map": "/Bologamaxim/homeWorkTw.git/static/js/main.b505a412.js.map",
     "787.67f55d8d.chunk.js.map": "/Bologamaxim/homeWorkTw.git/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f58b3fef.css",
+    "static/css/main.3d45f6e1.css",
     "static/js/main.b505a412.js"
   ]
 }
