@@ -3,10 +3,13 @@
 }
 
 .friendImageAndText {
+    color: #420e0e;
 
 }
 
 .friendImageAndText img {
+    width: 150px;
+    height: 150px;
 
 }
 
